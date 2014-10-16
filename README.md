@@ -2,6 +2,7 @@ Gravity
 =======
 
 A project to hold your three gravity-related programming assignments
+
 1. Fork this project
 2. Clone the fork to your laptop
 3. Add or copy-paste your code into the three files provided 
